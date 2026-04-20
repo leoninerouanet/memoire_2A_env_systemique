@@ -17,7 +17,7 @@ d'alitement à -6° (HDT6). Le diamètre des myotubes et l'expression des
 chaînes lourdes de myosine, ainsi que de protéines impliquées dans la
 synthèse protéique (p-Akt, p-4EBP1, p-p70S6K), la dégradation protéique
 (protéines ubiquitinées), le stress cellulaire (p-p38, p-AMPK) et la
-biogenèse mitochondriale (PGC1-$\alpha$) ont été analysés.
+biogenèse mitochondriale (PGC1-α) ont été analysés.
 
 **Résultats** : Le diamètre moyen des myotubes est resté inchangé entre
 les conditions BDC-6 et HDT6, sans signe d'atrophie macroscopique
@@ -59,7 +59,7 @@ rest protocol (HDT6). Myotube diameter and expression of myosin heavy
 chain isoforms were analysed, together with proteins involved in protein
 synthesis (p-Akt, p-4EBP1, p-p70S6K), protein degradation (ubiquitinated
 proteins), cellular stress (p-p38, p-AMPK), and mitochondrial biogenesis
-(PGC-1$\alpha$).
+(PGC1-α).
 
 **Results**: Mean myotube diameter remained unchanged between BDC-6 and
 HDT6 conditions, with no evidence of macroscopic atrophy (β = 0.30 μm, IC95% = [-0.61 ; 1.13]). Plasma collected after bed rest
