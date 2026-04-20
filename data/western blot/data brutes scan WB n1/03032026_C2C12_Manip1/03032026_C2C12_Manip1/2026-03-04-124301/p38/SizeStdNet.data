@@ -1,0 +1,14 @@
+Header	LI-COR Odyssey/Aerius Data File
+Version	1.0.2
+Warning	WARNING! This file format is required for LI-COR Applications. DO NOT MODIFY DATA!
+Type	SizeStdNet
+Project	03032026_C2C12_Manip1
+Scan	2026-03-04-124301
+Analysis	p38
+BarCode	
+App Name	Odyssey
+..	 
+FeatureType	Channel	Unit	ImageWidth	Sort Ascending	Version	Lines Count	Method
+SizeStdNet	700	Unknown	473	false	LI-COR SIZE STD NETWORK 1.1	0	2
+SizeStdNet	800	Unknown	473	false	LI-COR SIZE STD NETWORK 1.1	0	2
+FeatureType	Channel	Size	Pts Count

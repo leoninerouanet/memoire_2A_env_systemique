@@ -1,0 +1,27 @@
+#Properties Updated
+#Tue Mar 03 14:23:36 CET 2026
+NumImageNames=1
+FocusOffset=0
+ImageSetNames=
+ExperimentNames=2026-02-19-APC11-23_Rate_FLVCR1a
+ScannerName=LI-COR Odyssey (ODY-2467)
+FileType=LI-COR LI2D SCAN File
+ApplicationName=Odyssey
+ImageSetNumbers=
+Name=2026-03-03-stain-15
+ScanIntensity700=1.5
+ScanArea=0.0,0.0 to 15.0,10.0
+Comments=
+NumImageSetNames=0
+ScanDate=2026, 2, 3
+FileVersion=SCAN VERSION 1.7
+NumExperimentNames=1
+ScanChannels=700
+NumImageSetNumbers=0
+ScanResolution=169.49153
+ScanGroup=Fred
+BarCode=
+ImageNames=700.TIF
+ScanQuality=medium
+ScanIntensity800=5
+ScannerScanName=2026-03-03-134851

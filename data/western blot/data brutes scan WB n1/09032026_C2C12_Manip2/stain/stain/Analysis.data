@@ -1,0 +1,12 @@
+Header	LI-COR Odyssey/Aerius Data File
+Version	1.0.2
+Warning	WARNING! This file format is required for LI-COR Applications. DO NOT MODIFY DATA!
+Type	Analysis
+Project	09032026_C2C12_Manip2
+Scan	stain
+Analysis	stain
+BarCode	
+App Name	Odyssey
+..	 
+FeatureType	ImageName	Name	ScanName	Analsyis Vers	Analysis State	BackGnd Type	BackGnd Id	Brightness	Contrast	Sensitivity	ColorMode	ShowImage	MinLogPt	MaxLogPt	FeaturesCount	GammaMinPt	GammaMaxPt	GammaVal	ColorRedVal	ColorGreenVal	ColorBlueVal
+Analysis	700.TIF	700	stain	LI-COR ANALYSIS 1.5	-1	3	-1	50	50	5	103	true	1	65535	0	1	65535	1.0	255	0	0

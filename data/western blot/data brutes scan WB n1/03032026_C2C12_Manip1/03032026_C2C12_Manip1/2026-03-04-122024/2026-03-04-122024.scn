@@ -1,0 +1,27 @@
+#Properties Updated
+#Wed Mar 04 12:53:30 CET 2026
+NumImageNames=2
+FocusOffset=0
+ImageSetNames=
+ExperimentNames=ubiquitine
+ScannerName=LI-COR Odyssey (ODY-2467)
+FileType=LI-COR LI2D SCAN File
+ApplicationName=Odyssey
+ImageSetNumbers=
+Name=2026-03-04-122024
+ScanIntensity700=3
+ScanArea=0.0,0.0 to 8.0,9.0
+Comments=
+NumImageSetNames=0
+ScanDate=2026, 2, 4
+FileVersion=SCAN VERSION 1.7
+NumExperimentNames=1
+ScanChannels=700 800
+NumImageSetNumbers=0
+ScanResolution=169.17293
+ScanGroup=Fred
+BarCode=
+ImageNames=700.TIF, 800.TIF
+ScanQuality=medium
+ScanIntensity800=8
+ScannerScanName=2026-03-04-122024

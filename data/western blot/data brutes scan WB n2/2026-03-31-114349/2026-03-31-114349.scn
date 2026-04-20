@@ -1,0 +1,27 @@
+#Properties Updated
+#Tue Mar 31 11:46:01 CEST 2026
+FocusOffset=0
+NumImageNames=2
+ImageSetNames=
+ExperimentNames=p-ampk
+ScannerName=LI-COR Odyssey (ODY-2467)
+ApplicationName=Odyssey
+FileType=LI-COR LI2D SCAN File
+ImageSetNumbers=
+Name=2026-03-31-114349
+ScanIntensity700=3
+ScanArea=0.0,0.0 to 2.0,8.0
+Comments=
+NumImageSetNames=0
+ScanDate=2026, 2, 31
+FileVersion=SCAN VERSION 1.7
+NumExperimentNames=1
+ScanChannels=700 800
+NumImageSetNumbers=0
+ScanResolution=169.1332
+BarCode=
+ScanGroup=Fred
+ImageNames=700.TIF, 800.TIF
+ScanQuality=medium
+ScanIntensity800=4
+ScannerScanName=2026-03-31-114349

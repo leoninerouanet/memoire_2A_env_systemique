@@ -1,0 +1,13 @@
+Header	LI-COR Odyssey/Aerius Data File
+Version	1.0.2
+Warning	WARNING! This file format is required for LI-COR Applications. DO NOT MODIFY DATA!
+Type	Experiment
+Project	n2
+Scan	2026-03-31-123054
+Analysis	p akt essai 3
+BarCode	
+App Name	Odyssey
+..	 
+FeatureType	Name	ScanName	Experiment Vers	State	LastLinkNum	Zoom	Original	ViewWidth	ViewHeight	ViewMode	ICW Subt Backgnd	ICW Calc Ratio	ICW RatioToMaxChan	ICW RowLinks	ICW Parms Changed	Is Full Scan	Background Method	Backgnd Border Pixels	Backgnd Segment Type	Background Lane Backgnd	Opened Image View	ICW Row Analysis	ICW Column Analysis	ICW Z-Factor Analysis
+Experiment	p akt essai 3	2026-03-31-123054	LI-COR EXP 1.6	0	-1	100	true	620	450	0	true	true	700	none	false	true	No Background	3	All	false	false	false	false	false
+Remark	
