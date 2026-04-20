@@ -21,12 +21,12 @@ biogenèse mitochondriale (PGC1-$\alpha$) ont été analysés.
 
 **Résultats** : Le diamètre moyen des myotubes est resté inchangé entre
 les conditions BDC-6 et HDT6, sans signe d'atrophie macroscopique
-($\beta = 0,30 \mu\text{m}, IC_{95\%} = -0,61 ; 1,13$). Le plasma
+(β = 0.30 μm, IC95% = [-0.61 ; 1.13]). Le plasma
 post-alitement n'a pas non plus induit les voies de signalisation
 classiquement associées à l'atrophie musculaire. Cependant, une
 augmentation de l'expression des chaînes lourdes de myosine a été
 observée en condition HDT6, bien que cet effet demeure incertain
-($\beta = 1,56$ ratio HDT6/BDC-6, $IC_{95\%} = 1,16 ; 1,98$).
+(β = 1.56 ratio HDT6/BDC-6, IC95% = [1.16 ; 1.98]).
 
 **Discussion** : Une inflammation de bas grade ne peut être totalement
 exclue chez nos participants, mais elle reste vraisemblablement limitée,
@@ -62,11 +62,11 @@ proteins), cellular stress (p-p38, p-AMPK), and mitochondrial biogenesis
 (PGC-1$\alpha$).
 
 **Results**: Mean myotube diameter remained unchanged between BDC-6 and
-HDT6 conditions, with no evidence of macroscopic atrophy ($\beta = 0,30 \mu\text{m}, IC_{95\%} = -0,61 ; 1,13$). Plasma collected after bed rest
+HDT6 conditions, with no evidence of macroscopic atrophy (β = 0.30 μm, IC95% = [-0.61 ; 1.13]). Plasma collected after bed rest
 did not induce signaling pathways commonly associated with muscle
 atrophy. However, an increase in myosin heavy chain expression was
 observed under the HDT6 condition, although this effect remains
-uncertain ($\beta = 1,56$ HDT6/BDC-6 ratio, $IC_{95\%} = 1,16 ; 1,98$).
+uncertain (β = 1.56 HDT6/BDC-6 ratio, IC95% = [1.16 ; 1.98]).
 
 **Discussion**: Low-grade inflammation cannot be fully excluded in our
 participants, but it is likely to have been limited, which may explain
